@@ -1,6 +1,6 @@
 # Parallel File Downloader
 
-Download multiple files in parallel from a list of URLs using Python. This tool uses the `requests` library for fetching the content and `ThreadPoolExecutor` for parallel downloading.  
+A simple python script to download multiple files in parallel from a list of URLs. This tool uses the `requests` library for fetching the content and `ThreadPoolExecutor` for parallel downloading.  
 
 ## Table of Contents
 
