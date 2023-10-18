@@ -35,8 +35,8 @@ pip install requests
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/mbm6448/parallel_dl.git
-cd parallel_dl
+git clone https://github.com/mbm6448/parallel_URL_dl.git
+cd parallel_URL_dl
 ```
 
 2. Create a file with your desired name (e.g., `urls.txt`). Populate it with URLs — one URL per line.
